@@ -1,6 +1,6 @@
 "# example for displaying data augmentation for yolo dataset" 
 
-Modify below variables to your dataset/output path
+Modify these variables to your dataset/output path
 
 ```python
 project_dir = r'YOUR_PROJECT_DIR'
