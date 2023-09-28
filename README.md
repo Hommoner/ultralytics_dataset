@@ -1,4 +1,4 @@
-"# example for displaying data augmentation for yolo dataset" 
+# example for displaying data augmentation for yolo dataset
 
 Modify these variables to your dataset/output path
 
